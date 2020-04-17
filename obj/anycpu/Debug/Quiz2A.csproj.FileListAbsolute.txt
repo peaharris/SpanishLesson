@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/Quiz2A/bin/Debug/Quiz2A.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/Quiz2A/bin/Debug/Quiz2A.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/Quiz2A/obj/anycpu/Debug/Quiz2A.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/Quiz2A/obj/anycpu/Debug/Quiz2A.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch4/Quiz2A/obj/anycpu/Debug/Quiz2A.pdb
